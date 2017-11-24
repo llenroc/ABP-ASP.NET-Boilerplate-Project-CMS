@@ -11,119 +11,121 @@ ABP module-zero +AdminLTE+Bootstrap Table+jQuery权限管理系统
 
 > "ASP.NET Boilerplate是一个用最佳实践和流行技术开发现代WEB应用程序的新起点，它旨在成为一个通用的WEB应用程序框架和项目模板。"
 
-"ASP.NET Boilerplate 基于DDD的经典分层架构思想，实现了众多DDD的概念（但没有实现所有DDD的概念）。"
+>"ASP.NET Boilerplate 基于DDD的经典分层架构思想，实现了众多DDD的概念（但没有实现所有DDD的概念）。"
 
 
-1,ABP+AdminLTE+Bootstrap Table权限管理系统第一节--使用ASP.NET Boilerplate模板创建解决方案
+1. ABP+AdminLTE+Bootstrap Table权限管理系统第一节--使用ASP.NET Boilerplate模板创建解决方案
 
-2,ABP+AdminLTE+Bootstrap Table权限管理系统第二节--数据库脚本
+2. ABP+AdminLTE+Bootstrap Table权限管理系统第二节--数据库脚本
 
-3,ABP+AdminLTE+Bootstrap Table权限管理系统第三节--abp分层体系及实体相关
+3. ABP+AdminLTE+Bootstrap Table权限管理系统第三节--abp分层体系及实体相关
 
-4,ABP+AdminLTE+Bootstrap Table权限管理系统第四节--仓储,服务,服务接口及依赖注入
+4. ABP+AdminLTE+Bootstrap Table权限管理系统第四节--仓储,服务,服务接口及依赖注入
 
-5,ABP+AdminLTE+Bootstrap Table权限管理系统第五节--WBEAPI及SwaggerUI
+5. ABP+AdminLTE+Bootstrap Table权限管理系统第五节--WBEAPI及SwaggerUI
 
-6,ABP+AdminLTE+Bootstrap Table权限管理系统第六节--abp控制器扩展及json封装
+6. ABP+AdminLTE+Bootstrap Table权限管理系统第六节--abp控制器扩展及json封装
 
-7,ABP+AdminLTE+Bootstrap Table权限管理系统第七节--登录逻辑及abp封装的Javascript函数库
+7. ABP+AdminLTE+Bootstrap Table权限管理系统第七节--登录逻辑及abp封装的Javascript函数库
 
-8,ABP+AdminLTE+Bootstrap Table权限管理系统第八节--ABP错误机制及AbpSession相关
+8. ABP+AdminLTE+Bootstrap Table权限管理系统第八节--ABP错误机制及AbpSession相关
 
-9,ABP+AdminLTE+Bootstrap Table权限管理系统第九节--AdminLTE模板页搭建
+9. ABP+AdminLTE+Bootstrap Table权限管理系统第九节--AdminLTE模板页搭建
 
-10,ABP+AdminLTE+Bootstrap Table权限管理系统第十节--AdminLTE模板菜单处理
+10. ABP+AdminLTE+Bootstrap Table权限管理系统第十节--AdminLTE模板菜单处理
 
-11,ABP+AdminLTE+Bootstrap Table权限管理系统第十一节--bootstrap table之用户管理列表
+11. ABP+AdminLTE+Bootstrap Table权限管理系统第十一节--bootstrap table之用户管理列表
 
-12，ABP module-zero +AdminLTE+Bootstrap Table+jQuery权限管理系统第十二节--小结,Bootstrap Table之角色管理
+12. ABP module-zero +AdminLTE+Bootstrap Table+jQuery权限管理系统第十二节--小结,Bootstrap Table之角色管理
+
+13. ABP module-zero +AdminLTE+Bootstrap Table+jQuery权限管理系统第十三节--RBAC模式及ABP权限管理（附赠福利）
 
 运用到的服务端技术:
 
-ABP（ASP.NET BolierPlate ProJect）
+- ABP（ASP.NET BolierPlate ProJect）
 
-Module-Zero
+- Module-Zero
 
-ASP.NET MVC
+- ASP.NET MVC
 
-ASP.NET Web API
+- ASP.NET Web API
 
-ASP.NET Identity Framework (and social login extensions)
+- ASP.NET Identity Framework (and social login extensions)
 
-ASP.NET Web Optimization Framework
+- ASP.NET Web Optimization Framework
 
-ASP.NET Web Pages
+- ASP.NET Web Pages
 
-SignalR
+- SignalR
 
-EntityFramework
+- EntityFramework
 
-EntityFramework.DynamicFilters
+- EntityFramework.DynamicFilters
 
-Castle Windsor
+- Castle Windsor
 
-AutoMapper
+- AutoMapper
 
-HangFire
+- HangFire
 
-Log4Net
+- Log4Net
 
-xUnit
+- xUnit
 
-Swashbuckle
+- Swashbuckle
 
-StackExchange.Redis
+- StackExchange.Redis
 
-SharpZipLib
+- SharpZipLib
 
-System.Linq.Dynamic
+- System.Linq.Dynamic
 
 客户端:(前端是用的AdminLTE,Bootstrap  table.是开源的,不涉及版权)
 
-Twitter Bootstrap
+- Twitter Bootstrap
 
-Bootstrap Hover Dropdown
+- Bootstrap Hover Dropdown
 
-Bootstrap Date Range Picker
+- Bootstrap Date Range Picker
 
-Bootstrap Switch
+- Bootstrap Switch
 
-Bootstrap Select
+- Bootstrap Select
 
-Bootstrap table
+- Bootstrap table
 
-jQuery
+- jQuery
 
-jQuery UI
+- jQuery UI
 
-jQuery BlockUI
+- jQuery BlockUI
 
-jQuery Validation
+- jQuery Validation
 
-jQuery Ajax Forms
+- jQuery Ajax Forms
 
-Js Cookie
+- Js Cookie
 
-Modernizr
+- Modernizr
 
-Moment.js
+- Moment.js
 
-Moment.js Timezone
+- Moment.js Timezone
 
-Underscore.js
+- Underscore.js
 
-JsTree
+- JsTree
 
-Respondjs
+- Respondjs
 
-Font-Awesome
+- Font-Awesome
 
-SpinJs
+- SpinJs
 
-SweetAlert
+- SweetAlert
 
-Toastr
+- Toastr
 
-AdminLTE
+- AdminLTE
 
 
